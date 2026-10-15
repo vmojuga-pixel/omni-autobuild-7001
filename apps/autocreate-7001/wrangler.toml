@@ -1,0 +1,3 @@
+name = "autocreate-7001"
+main = "src/worker.js"
+compatibility_date = "2025-04-01"
